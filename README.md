@@ -6,4 +6,5 @@
 + Prounouns: He/Him/His
 + Looking for my LinkedIn Profile? [Click Here!](https://www.linkedin.com/in/ramzi-carter-jr-7462bb204/)
 - [x] Graduate with Bachelors of Science in Computer Science
+- [ ] AWS Developer Certification 
 - [ ] Entry Level Position as Developer
