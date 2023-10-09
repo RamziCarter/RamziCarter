@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Ramzi 
-
+# Welcome to R.Carter's Github Page! 
 + I'm currently in the interview process on my quest to become a software engineer
 + My primary programming language is Java
 + I'm looking to collaborate and create impactful solutions along my software journey!
