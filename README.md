@@ -4,5 +4,6 @@
 + I'm looking to collaborate and create impactful solutions along my software journey!
 + Looking for my LinkedIn Profile? [Click Here!](https://www.linkedin.com/in/ramzi-carter-jr-7462bb204/)
 
-2022 B.S. Computer Science, Marquette University
-2025 M.S. Computer Science, San Jose State University
+2022 B.S. __Computer Science, Marquette University__
+
+2025 M.S. __Computer Science, San Jose State University__
